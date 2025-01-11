@@ -11,6 +11,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HtmlPages", "HtmlPages", "{
 		04.html = 04.html
 		05.html = 05.html
 		06.html = 06.html
+		07.html = 07.html
 	EndProjectSection
 EndProject
 Global
