@@ -1,4 +1,4 @@
-h1 {
+#main-title {
     color: darkred;
 }
 
@@ -7,6 +7,6 @@ h2 + p {
     font-style: italic
 }
 
-div {
+.highlight {
     text-decoration: underline;
 }
