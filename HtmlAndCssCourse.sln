@@ -25,8 +25,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HTML", "HTML", "{DD0DDC58-0
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CSS", "CSS", "{A2DDDF64-9CC5-4E50-B091-1EEE9D19E78D}"
 	ProjectSection(SolutionItems) = preProject
-		index.html = index.html
 		styles.css = styles.css
+		css01index.html = css01index.html
 	EndProjectSection
 EndProject
 Global
