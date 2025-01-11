@@ -1,0 +1,17 @@
+﻿div p{
+    color:darkblue
+}
+p + p {
+    background-color: green
+}
+ul > li{
+    color:chocolate
+}
+
+p ~ span{
+    color: yellowgreen
+}
+
+p span {
+    color: red
+}
